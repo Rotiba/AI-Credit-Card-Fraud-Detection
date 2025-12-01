@@ -1,0 +1,13 @@
+{
+    "model": "LightGBM",
+    "confusion_matrix": [
+        [
+            56776,
+            88
+        ],
+        [
+            13,
+            85
+        ]
+    ]
+}

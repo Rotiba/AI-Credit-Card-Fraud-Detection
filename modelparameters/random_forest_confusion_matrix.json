@@ -1,0 +1,13 @@
+{
+    "model": "RandomForest",
+    "confusion_matrix": [
+        [
+            56849,
+            15
+        ],
+        [
+            18,
+            80
+        ]
+    ]
+}

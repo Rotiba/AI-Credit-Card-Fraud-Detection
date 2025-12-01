@@ -1,0 +1,13 @@
+{
+    "model": "XGBoost",
+    "confusion_matrix": [
+        [
+            56831,
+            33
+        ],
+        [
+            14,
+            84
+        ]
+    ]
+}

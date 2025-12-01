@@ -1,0 +1,13 @@
+{
+    "model": "Logistic Regression",
+    "confusion_matrix": [
+        [
+            55402,
+            1462
+        ],
+        [
+            8,
+            90
+        ]
+    ]
+}
