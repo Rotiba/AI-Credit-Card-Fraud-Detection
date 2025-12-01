@@ -32,11 +32,10 @@ The confusion matrix displays the count of true positives, true negatives, false
 ## 📈 ROC Curve
 AUC values closer to 1.0 suggest the model can correctly rank positive instances higher than negative ones across a wide range of thresholds, reflecting robust classification performance
 <p align="center">
-	<img src="assets/ROC_Curves.png" alt="ROC_Curves" style="width:100%; max-width:800px;" />
+	<img src="assets/ROC_curves.png" alt="ROC_curves" style="width:100%; max-width:800px;" />
 </p>
 
 ---
-
 ## 🎯 Precision-Recall Curve
 
 The high AUC score indicates that the model achieves a strong trade-off between precision and recall, demonstrating effective discrimination between positive and negative reviews
